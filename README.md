@@ -1,2 +1,2 @@
 # bin
-IDAPython binaries
+IDAPython binaries for various releases of IDA.
